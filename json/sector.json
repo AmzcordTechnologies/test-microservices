@@ -1,0 +1,49 @@
+[{
+    "id":1,
+    "name":"Construction materials" 
+},{
+    "id":2,
+    "name":"Electronics and optics" 
+},{
+    "id":3,
+    "name":"Food and Beverage" 
+},{
+    "id":4,
+    "name":"Furniture" 
+},{
+    "id":5,
+    "name":"Machinery" 
+},{
+    "id":6,
+    "name":"Metalworking" 
+},{
+    "id":7,
+    "name":"Plastic and Rubber" 
+},{
+    "id":8,
+    "name":"Printing" 
+},{
+    "id":9,
+    "name":"Textile and Clothing<" 
+},{
+    "id":10,
+    "name":"Wood" 
+},{
+    "id":11,
+    "name":"Business Services" 
+},{
+    "id":12,
+    "name":"Engineering" 
+},{
+    "id":13,
+    "name":"Information Technology and Telecomiunication" 
+},{
+    "id":14,
+    "name":"Tourism" 
+},{
+    "id":15,
+    "name":"Tranlation services" 
+},{
+    "id":16,
+    "name":"Transportr and Logistics" 
+}]

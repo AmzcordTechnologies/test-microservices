@@ -1,0 +1,136 @@
+[{
+    "id":1,
+    "name":"Manufacturing",
+    "sectors":[
+        {
+            "id":1,
+            "name":"Construction materials" 
+        },{
+            "id":2,
+            "name":"Electronics and optics" 
+        },{
+            "id":3,
+            "name":"Food and Beverage",
+            "sub-sectors":[{
+                "id":1,
+                "name":"Bakery & confectionery products" 
+            },{
+                "id":2,
+                "name":"Beverages" 
+            },{
+                "id":3,
+                "name":"Fish & fish products " 
+            },{
+                "id":4,
+                "name":"Meat & meat products" 
+            },{
+                "id":5,
+                "name":"Milk & dairy products" 
+            },{
+                "id":6,
+                "name":"Other" 
+            },{
+                "id":7,
+                "name":"Sweets & snack food" 
+            }] 
+        },{
+            "id":4,
+            "name":"Furniture",
+            "sub-sectors":[{
+                "id":8,
+                "name":"Bathroom/sauna" 
+            },{
+                "id":9,
+                "name":"Bedroom" 
+            },{
+                "id":10,
+                "name":"Childrenâ€™s room" 
+            },{
+                "id":11,
+                "name":"Kitchen " 
+            },{
+                "id":12,
+                "name":"Living room" 
+            },{
+                "id":13,
+                "name":"Office" 
+            },{
+                "id":14,
+                "name":"Other (Furniture)" 
+            },{
+                "id":15,
+                "name":"Outdoor" 
+            }] 
+        },{
+            "id":5,
+            "name":"Machinery",
+            "sub-sectors":[
+                {
+                    "id":16,
+                    "name":"Machinery components" 
+                },{
+                    "id":16,
+                    "name":"Machinery equipment/tools" 
+                },{
+                    "id":16,
+                    "name":"Manufacture of machinery" 
+                },{
+                    "id":16,
+                    "name":"Maritime" 
+                }
+            ] 
+        },{
+            "id":6,
+            "name":"Metalworking" 
+        },{
+            "id":7,
+            "name":"Plastic and Rubber" 
+        },{
+            "id":8,
+            "name":"Printing" 
+        },{
+            "id":9,
+            "name":"Textile and Clothing<" 
+        },{
+            "id":10,
+            "name":"Wood" 
+        }
+    ]
+},{
+    "id":2,
+    "name":"Services",
+    "sectors":[
+        {
+            "id":11,
+            "name":"Business Services" 
+        },{
+            "id":12,
+            "name":"Engineering" 
+        },{
+            "id":13,
+            "name":"Information Technology and Telecomiunication" 
+        },{
+            "id":14,
+            "name":"Tourism" 
+        },{
+            "id":15,
+            "name":"Tranlation services" 
+        },{
+            "id":16,
+            "name":"Transportr and Logistics",
+            "sub-sectors":[{
+                "id":17,
+                "name":"Air" 
+            },{
+                "id":18,
+                "name":"Rail" 
+            },{
+                "id":19,
+                "name":"Road" 
+            },{
+                "id":20,
+                "name":"Water" 
+            }] 
+        }
+    ]
+}]
